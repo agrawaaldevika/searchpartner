@@ -1,0 +1,33 @@
+.tableheader {
+background-color: #95BEE6;
+font-weight:bold;
+text-align: center;
+}
+.tablerow {
+background-color: #A7D6F1;
+color:white;
+}
+.message {
+color: #FF0000;
+font-weight: bold;
+text-align: center;
+width: 100%;
+}
+a{
+text-decoration:none;
+margin: 5px;
+padding: 3px 5px;
+color: #FFFFFF;
+background-color: #07A6F1;
+border: #A7D6F1 1px solid;
+}
+.current {
+margin: 5px;
+padding: 3px 5px;
+color:#07A6F1;
+background-color: #CCCCCC;
+border: #07A6F1 1px solid;
+}
+.date {
+color: #999;
+}
